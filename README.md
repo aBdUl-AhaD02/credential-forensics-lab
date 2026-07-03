@@ -101,3 +101,21 @@ This incident traces back to a single missed step: offboarding. Accounts should 
 deactivated the moment an employee is terminated, not on a delayed schedule. Combining
 network traffic analysis with memory forensics provided a complete, evidence-backed chain
 from credential misuse to data exfiltration.
+
+## Screenshots 
+
+![screenshot1](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%201.png)
+
+![screenshot2](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%202.png)
+
+![screenshot3](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%203.png)
+
+![screenshot4](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%204.png)
+
+![screenshot5](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%205.png)
+
+![screenshot6](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%206.png)
+
+![screenshot7](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%207.png)
+
+![screenshot8](https://github.com/aBdUl-AhaD02/credential-forensics-lab/blob/main/Images/Screenshot%208.png)
